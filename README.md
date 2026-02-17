@@ -1,18 +1,63 @@
-# 💫 About Me:
-# Hi there 👋, I'm Rishabh Pandey<br><br>## 🚀 About Me<br><br>Senior Platform / Cloud Engineer with 6+ years of experience designing, building, and operating highly available Kubernetes platforms across public and private cloud environments. Specialized in multi-cloud architecture, GitOps-driven CI/CD, infrastructure automation, and production-grade observability for regulated and large-scale enterprise environments including banking, gaming, telecom, healthcare, and tourism.<br><br>* 🌐 Currently enabling Kubernetes clusters (VKS, RKE2, OpenShift, EKS, AKS, GKE) across public and private clouds<br>* ☁️ Specialized in multi-cloud and hybrid cloud Kubernetes platforms<br>* 🔧 Focused on Platform Engineering, Cloud Native, and SRE practices<br>* 🌱 Active contributor and supporter of CNCF ecosystem<br>* 📍 Based in Singapore<br><br>---<br><br>## ☁️ Cloud & Infrastructure<br><br>* AWS, GCP, Azure<br>* VMware vSphere<br>* Multi-cloud and hybrid cloud architecture<br><br>---<br><br>## ☸️ Kubernetes Platforms<br><br>* Amazon EKS<br>* Google GKE<br>* Azure AKS<br>* OpenShift<br>* Rancher RKE2<br>* VMware Tanzu (TKGm, vSphere with Tanzu)<br>* Production-grade Kubernetes cluster enablement and operations<br><br>---<br><br>## 🏗️ Infrastructure as Code & Automation<br><br>* Terraform<br>* Packer<br>* Python (pyvmomi)<br>* Infrastructure automation and provisioning<br><br>---<br><br>## 🚀 CI/CD & GitOps<br><br>* ArgoCD<br>* Jenkins<br>* GitLab CI<br>* Spinnaker<br>* GitOps-based deployment workflows<br><br>---<br><br>## 📊 Observability & Monitoring<br><br>* Prometheus<br>* Grafana<br>* ELK / EFK stack<br>* Fluent Bit<br>* Jaeger<br>* Wavefront<br><br>---<br><br>## 🗄️ Datastores & Messaging<br><br>* YugabyteDB<br>* Kafka<br>* RabbitMQ<br>* NATS<br><br>---<br><br>## 🛠️ Platform & SRE Skills<br><br>* Istio service mesh<br>* HAProxy<br>* Site Reliability Engineering (SRE)<br>* Incident management<br>* Production operations and reliability<br><br>---<br><br>## 🌐 Open Source & CNCF<br><br>* Kubernetes platform enablement and operations<br>* Actively working towards contributing to Kubernetes and CNCF projects<br>* Interested in cloud-native ecosystem and platform engineering<br><br>---<br><br>## ⚡ Current Focus<br><br>* Building and operating enterprise-grade Kubernetes platforms<br>* Contributing to CNCF and Kubernetes ecosystem<br>* Platform engineering and multi-cloud architecture<br>* Cloud-native infrastructure automation
+# 👋 Hi, I'm Rishabh Pandey
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imrishabh27) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@0.all_existence.0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imrishabh27@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=allexistence&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=allexistence&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=allexistence&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Senior Platform / Cloud Engineer with 6+ years of experience designing, building, and operating production-grade Kubernetes platforms across public and private clouds. Specialized in multi-cloud architecture, GitOps, infrastructure automation, and observability for large-scale enterprise environments.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=allexistence&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ☸️ What I Do
+
+- Enable and operate Kubernetes platforms: EKS, AKS, GKE, OpenShift, RKE2, Tanzu
+- Design multi-cloud and hybrid cloud infrastructure
+- Build GitOps-driven CI/CD platforms
+- Implement production-grade observability and reliability practices
+- Support enterprise workloads across regulated industries
+
+---
+
+## ☁️ Cloud & Kubernetes
+
+**Cloud:** AWS • Azure • GCP • VMware vSphere  
+**Kubernetes:** EKS • AKS • GKE • OpenShift • RKE2 • Tanzu  
+**Platform Engineering:** Multi-cloud • HA architecture • Cluster lifecycle management  
+
+---
+
+## 🏗️ Infrastructure & DevOps
+
+**IaC & Automation:** Terraform • Packer • Python • pyvmomi  
+**CI/CD & GitOps:** ArgoCD • Jenkins • GitLab CI • Spinnaker  
+**Observability:** Prometheus • Grafana • ELK/EFK • Jaeger • Fluent Bit  
+**Service Mesh & Networking:** Istio • HAProxy  
+
+---
+
+## 🗄️ Datastores & Messaging
+
+Kafka • RabbitMQ • NATS • YugabyteDB  
+
+---
+
+## 🌐 Open Source & CNCF
+
+- Kubernetes platform enablement and operations
+- Active in CNCF ecosystem
+- Working toward Kubernetes and CNCF contributions
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=allexistence&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=allexistence&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh_Pandey-blue?logo=linkedin)](https://linkedin.com/in/imrishabh27)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://medium.com/@0.all_existence.0)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:imrishabh27@gmail.com)
+
+---
+
+⭐ Focus: Kubernetes • Platform Engineering • Cloud Native • CNCF
