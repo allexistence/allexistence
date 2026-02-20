@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishabh Pandey
 
-🚀 Senior Platform / Cloud Engineer with 6+ years of experience designing, building, and operating production-grade Kubernetes platforms across public and private clouds. Specialized in multi-cloud architecture, GitOps, infrastructure automation, and observability for large-scale enterprise environments.
+🚀 Senior Platform / Cloud Engineer with 7+ years of experience designing, building, and operating production-grade Kubernetes platforms across public and private clouds. Specialized in multi-cloud architecture, GitOps, infrastructure automation, and observability for large-scale enterprise environments.
 
 ---
 
