@@ -27,7 +27,7 @@
 **IaC & Automation:** Terraform • Packer • Python • pyvmomi  
 **CI/CD & GitOps:** ArgoCD • Jenkins • GitLab CI • Spinnaker  
 **Observability:** Prometheus • Grafana • ELK/EFK • Jaeger • Fluent Bit  
-**Service Mesh & Networking:** Istio • HAProxy  
+**Service Mesh & Networking:** Istio • HAProxy • NSX • cillium • VDS • ingress • Openshift Route 
 
 ---
 
