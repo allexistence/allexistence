@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Rishabh Pandey
+# Hi, I'm Rishabh Pandey
 
 🚀 Senior Platform / Cloud Engineer with 7+ years of experience designing, building, and operating production-grade Kubernetes platforms across public and private clouds. Specialized in multi-cloud architecture, GitOps, infrastructure automation, and observability for large-scale enterprise environments.
 
 ---
 
-## ☸️ What I Do
+## What I Do
 
 - Enable and operate Kubernetes platforms: EKS, AKS, GKE, OpenShift, RKE2, Tanzu
 - Design multi-cloud and hybrid cloud infrastructure
@@ -14,7 +14,7 @@
 
 ---
 
-## ☁️ Cloud & Kubernetes
+## Cloud & Kubernetes
 
 **Cloud:** AWS • Azure • GCP • VMware vSphere  
 **Kubernetes:** EKS • AKS • GKE • OpenShift • RKE2 • Tanzu  
@@ -22,7 +22,7 @@
 
 ---
 
-## 🏗️ Infrastructure & DevOps
+## Infrastructure & DevOps
 
 **IaC & Automation:** Terraform • Packer • Python • pyvmomi  
 **CI/CD & GitOps:** ArgoCD • Jenkins • GitLab CI • Spinnaker  
@@ -31,20 +31,20 @@
 
 ---
 
-## 🗄️ Datastores & Messaging
+## Datastores & Messaging
 
 Kafka • RabbitMQ • NATS • YugabyteDB  
 
 ---
 
-## 🌐 Open Source & CNCF
+## Open Source & CNCF
 
 - Kubernetes platform enablement and operations
 - Active in CNCF ecosystem
 - Working toward Kubernetes and CNCF contributions
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh_Pandey-blue?logo=linkedin)](https://linkedin.com/in/imrishabh27)
 [![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://medium.com/@0.all_existence.0)
