@@ -48,7 +48,7 @@ Kafka • RabbitMQ • NATS • YugabyteDB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishabh_Pandey-blue?logo=linkedin)](https://linkedin.com/in/imrishabh27)
 [![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium)](https://medium.com/@0.all_existence.0)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:imrishabh27@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-imrishabh27%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:imrishabh27@gmail.com)
 
 ---
 
