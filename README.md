@@ -1,6 +1,6 @@
-## Hi World, I'm Rishabh Pandey
+# Hi World, I'm Rishabh Pandey
 
-**Senior Platform / Cloud Engineer with 7+ years of experience in Kubernetes, multi-cloud infrastructure, GitOps, and observability. Experienced across AWS, Azure, GCP, and enterprise platforms, building and operating scalable, production-grade systems. Active in the CNCF ecosystem and open-source contributions.**
+- Senior Platform / Cloud Engineer with 7+ years of experience in Kubernetes, multi-cloud infrastructure, GitOps, and observability. Experienced across AWS, Azure, GCP, and enterprise platforms, building and operating scalable, production-grade systems. Active in the CNCF ecosystem and open-source contributions.
 ---
 ## What I Do
 
